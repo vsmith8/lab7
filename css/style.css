@@ -21,6 +21,8 @@ td {
 }
 .image-earth {
   border: 2px blue;
+  width: 30px;
+  height: 30px;
 }
 .image-mars {
   border: 2px orange;
@@ -43,7 +45,7 @@ td {
   color: gold;
 }
 .row4 {
-  color: azure;
+  color: white;
 }
 .row5 {
   color: indigo;
