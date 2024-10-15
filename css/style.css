@@ -20,20 +20,20 @@ td {
   font-family: monospace;
 }
 
-.image-earth {
+.earthpic {
   border: 1px blue;
 }
-.image-mars {
+.marspic {
   border: 1px orange;
 }
-image-saturn {
+.saturnpic {
   border: 1px tan;
 } 
-image-jupiter {
+.jupiterpic {
   border: 1px brown;
 } 
 .row2 {
-  color: magenta;
+  color: rgb(0,100,100);
 }
 .row3 {
   color: gold;
