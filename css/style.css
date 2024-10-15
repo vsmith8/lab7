@@ -3,6 +3,12 @@ body
   background-image: url("../images/pinkbackground.jpeg");
 }
 td, th {
-	border: 3px solid;
+  border: 3px solid;
   }
+h1 {
+  font-family: "Gills Sans", sans-serif;
+  font-size: 5em;
+  color: red;
+  text-align: center;
+}
   
