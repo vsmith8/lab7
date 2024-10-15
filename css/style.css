@@ -17,20 +17,24 @@ tr {
 }
 td {
   font-size: 2em;
-  font-family: monospace;
+  font-family: serif;
 }
-
 .earthpic {
-  border: 1px blue;
+  border: 2px blue;
 }
 .marspic {
-  border: 1px orange;
+  border: 2px orange;
 }
 .saturnpic {
-  border: 1px tan;
+  border: 2px tan;
 } 
 .jupiterpic {
-  border: 1px brown;
+  border: 2px brown;
+} 
+.row1 {
+  color: paleturquoise;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
 } 
 .row2 {
   color: rgb(0,100,100);
