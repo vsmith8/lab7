@@ -9,6 +9,51 @@ h1 {
   color: red;
   text-align: center;
   font-family: fantasy;
-  font-size: 18px;
+  font-size: 36px;
+}
+tr {
+  background-color: red;
+  text-align: center;
+}
+td {
+  font-size: 3em;
+  font-family: monospace;
+}
+
+.image-earth {
+  border: 1px blue;
+}
+.image-mars {
+  border: 1px orange;
+}
+image-saturn {
+  border: 1px tan;
+} 
+image-jupiter {
+  border: 1px brown;
+} 
+.row2 {
+  color: magenta;
+}
+.row3 {
+  color: gold;
+}
+.row4 {
+  color: azure;
+}
+.row5 {
+  color: indigo;
+}
+.row6 {
+  color: orange;
+}
+.row7 {
+  color: teal;
+}
+.row8 {
+  color: blueviolet;
+}
+.row9 {
+  color: plum;
 }
   
