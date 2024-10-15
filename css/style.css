@@ -20,18 +20,20 @@ td {
   font-family: serif;
 }
 .image-earth {
-  border: 2px blue;
-  width: 30px;
-  height: 30px;
+  width: 100px;
+  height: 100px;
 }
 .image-mars {
-  border: 2px orange;
+  width: 100px;
+  height: 100px;
 }
 .image-saturn {
-  border: 2px tan;
+  width: 100px;
+  height: 100px;
 } 
 .image-jupiter {
-  border: 2px brown;
+  width: 100px;
+  height: 100px;
 } 
 .row1 {
   color: paleturquoise;
